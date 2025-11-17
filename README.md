@@ -29,6 +29,14 @@ The Vijetha Store wants to create an annual sales report for 2024. So that, the 
 -Merge all pivot table charts into one dashboard and apply slicer to make dynamic.
 ## Dashboard
 https://1drv.ms/i/c/b9612ba927504bea/EZcvBSQPO99Ejul6FEjfs8ABzkgR4Tj_s6m1VHQovDhBoQ?e=UbtJVk
+## Project Insights
+-Women are more likely to buy compared to men (~65%)
+-Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+-Adult age group (30-49 yrs) is max contributing (~50%)
+-Amazon, Flipkart and Myntra channels are max contributing (~80%)
+## Final Conclusion:
+To improve the sales of Vijetha Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns by showing ads/offers/coupons available on Amazon, Flipkart and Myntra and personalized promotions to capture their attention.
+
 
 
 
