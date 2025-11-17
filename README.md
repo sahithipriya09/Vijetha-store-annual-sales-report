@@ -21,7 +21,7 @@ The Vijetha Store wants to create an annual sales report for 2024. So that, the 
 -Highest selling category?
 
 -Dashboard Interaction
-  -<a href=”https://github.com/sahithipriya09/Vijetha-store-annual-sales-report/blob/main/Screenshot%202025-11-17%20184757.png”>View Dashboard</a>
+  -<a href=https://github.com/sahithipriya09/Vijetha-store-annual-sales-report/blob/main/Screenshot%202025-11-17%20184757.png>View Dashboard</a>
 ## Process
 -Verify data for any missing values and anomalies, and sort out the same.
 -Make sure data is consistent and clean with respect to data type, data format and values used.
