@@ -31,7 +31,8 @@ The Vijetha Store wants to create an annual sales report for 2024. So that, the 
 
 -Merge all pivot table charts into one dashboard and apply slicer to make dynamic.
 ## Dashboard
-https://1drv.ms/i/c/b9612ba927504bea/EZcvBSQPO99Ejul6FEjfs8ABzkgR4Tj_s6m1VHQovDhBoQ?e=UbtJVk
+Screenshot 2025-11-17 184757.png
+
 ## Project Insights
 -Women are more likely to buy compared to men (~65%)
 
