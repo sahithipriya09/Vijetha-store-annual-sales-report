@@ -20,5 +20,6 @@ The Vijetha Store wants to create an annual sales report for 2025. So that, the 
 
 -Highest selling category?
 
--Dashboard Interaction <a href=”https://github.com/sahithipriya09/Vijetha-store-annual-sales-report/blob/main/Screenshot%202025-11-17%20184757.png”>View Dashboard</a>
+-Dashboard Interaction
+<a href=”https://github.com/sahithipriya09/Vijetha-store-annual-sales-report/blob/main/Screenshot%202025-11-17%20184757.png”>View Dashboard</a>
 
